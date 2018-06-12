@@ -1,4 +1,4 @@
 # koa2-mysql-nuxt
 personal blog
 
-koa2 + mysql + nuxt + sass 等 
+koa2 + mysql + nuxt + stylus 等 
